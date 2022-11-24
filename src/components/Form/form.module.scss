@@ -1,0 +1,24 @@
+.form {
+  background-color: #fff;
+  padding: 10px 60px 30px;
+  border-radius: 10px;
+  h3 {
+    color: #5e045e;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 0 10px 0;
+  }
+  button {
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    border: none;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    cursor: pointer;
+  }
+}
